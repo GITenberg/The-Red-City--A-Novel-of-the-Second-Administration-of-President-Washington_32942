@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/357
     wikipedia: http://en.wikipedia.org/wiki/Silas_Weir_Mitchell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32942#The-Red-City--A-Novel-of-the-Second-Administration-of-President-Washington
 gutenberg_issued: '2010-06-22'
 gutenberg_type: Text
 identifiers:
